@@ -1,0 +1,1 @@
+The Travel Booking System is a relational database designed to support an application that allows users to search, book, and manage travel services including flights, hotel accommodations, and transportation. The system handles customer data, bookings, payment processing, and travel itineraries.
